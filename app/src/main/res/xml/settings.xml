@@ -1,0 +1,6 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference
+        android:title="Default folder"
+        android:summary="The folder shown on startup"
+        android:key="pref_default_folder"/>
+</PreferenceScreen>
